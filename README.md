@@ -20,8 +20,6 @@ I'm an Expert in the field of **Backend** development. I’m also an **Open-Sour
 <br/>
 <br/>
 
-- 🗼 Living in **Texas, US**
-
 - ✈️ Open to Remote Job Opportunities 🍻
 
 <br/>
