@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 
-I'm an Expert in the field of **Backend** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/backenddevplus?tab=repositories).
+I'm an Expert in the field of **Web** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github](https://github.com/backenddevplus?tab=repositories).
 <br/>
 <br/>
 
